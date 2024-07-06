@@ -1,0 +1,52 @@
+<OverlayData>
+<MarkerCategory name="beetle_gold" DisplayName="Pewpew's Power Paths">
+  <MarkerCategory name="seasonal_races" DisplayName="Seasonal Races">
+    <!--Snowfall Sprint-->
+	<MarkerCategory name="race_dr_winter" DisplayName="Winter - Snowfall Sprint (Divinity's Reach)">
+      <MarkerCategory name="race_dr_winter_toggletrail" DisplayName="Toggle Trail">
+        </MarkerCategory>
+      <MarkerCategory name="race_start" DisplayName="Toggle Start Point" fadeNear="5000" fadeFar="5100" iconSize="2.0" heightOffset="4.0" iconFile="DATA/IMG/beetle_start.png"/>
+	  <MarkerCategory name="race_drift" DisplayName="Toggle Drift Signs" fadeNear="5000" fadeFar="5100" iconSize="2.0" heightOffset="3.0" iconFile="DATA/IMG/beetle_sign_drift.png"/>
+	  <MarkerCategory name="race_sharpleft" DisplayName="Toggle Sharp Left Signs" fadeNear="5000" fadeFar="5100" iconSize="2.0" heightOffset="3.0" iconFile="DATA/IMG/beetle_sign_sharpleft.png"/>
+	  <MarkerCategory name="race_sharpright" DisplayName="Toggle Sharp Right Signs" fadeNear="5000" fadeFar="5100" iconSize="2.0" heightOffset="3.0" iconFile="DATA/IMG/beetle_sign_sharpright.png"/>
+	  <MarkerCategory name="race_boost" DisplayName="Toggle Boost Signs" fadeNear="5000" fadeFar="5100" iconSize="2.5" heightOffset="1.0" iconFile="DATA/IMG/beetle_sign_boost.png"/>
+	  <MarkerCategory name="race_vigor" DisplayName="Toggle Vigor Signs" fadeNear="5000" fadeFar="5100" iconSize="2.5" heightOffset="2.0" iconFile="DATA/IMG/beetle_sign_vigor.png"/>
+	  <MarkerCategory name="race_slow" DisplayName="Toggle Slow Signs" fadeNear="5000" fadeFar="5100" iconSize="2.0" heightOffset="3.0" iconFile="DATA/IMG/beetle_sign_slow.png"/>
+    </MarkerCategory>
+  </MarkerCategory>
+</MarkerCategory>
+	<POIs>
+		<!--Snowfall Sprint Markers and Trails-->
+		<POI MapID="18" xpos="-247.885" ypos="59.4076" zpos="50.8331" type="beetle_gold.seasonal_races.race_dr_winter.race_start" GUID="VX+84zYP3EGX2FE5gIk/HA=="/>
+		<POI MapID="18" xpos="-186.776" ypos="56.3544" zpos="215.531" type="beetle_gold.seasonal_races.race_dr_winter.race_drift" GUID="l5ftbge0oU2YhWgNSF0Ikw=="/>
+		<POI MapID="18" xpos="-103.884" ypos="56.1805" zpos="278.324" type="beetle_gold.seasonal_races.race_dr_winter.race_drift" GUID="5RUVNLt4F0+MskFwbBvAqw=="/>
+		<POI MapID="18" xpos="-94.1515" ypos="68.1285" zpos="230.775" type="beetle_gold.seasonal_races.race_dr_winter.race_drift" GUID="7v+yxcvEv0acOU+yEQJzQg=="/>
+		<POI MapID="18" xpos="-56.7343" ypos="67.0368" zpos="197.627" type="beetle_gold.seasonal_races.race_dr_winter.race_drift" GUID="fPi879e0vEqvSu9XNNRElQ=="/>
+		<POI MapID="18" xpos="-45.0447" ypos="62.6955" zpos="240.318" type="beetle_gold.seasonal_races.race_dr_winter.race_drift" GUID="XC7fnMojGEySiPlBWW4nEQ=="/>
+		<POI MapID="18" xpos="21.686" ypos="61.2247" zpos="271.341" type="beetle_gold.seasonal_races.race_dr_winter.race_drift" GUID="86eWCQ/I5U6POvgZXeK28A=="/>
+		<POI MapID="18" xpos="34.0129" ypos="97.5842" zpos="351.774" type="beetle_gold.seasonal_races.race_dr_winter.race_drift" GUID="72XNX7JYcUySDCxpr7t6ZA=="/>
+		<POI MapID="18" xpos="64.8467" ypos="142.05" zpos="140.807" type="beetle_gold.seasonal_races.race_dr_winter.race_drift" GUID="AKU4PM9RPEC4WWXEWPBB0Q=="/>
+		<POI MapID="18" xpos="200.879" ypos="138.331" zpos="-104.986" type="beetle_gold.seasonal_races.race_dr_winter.race_drift" GUID="sEOJjgOuck2ZRLIhlfsHew=="/>
+		<POI MapID="18" xpos="422.515" ypos="101.968" zpos="-267.508" type="beetle_gold.seasonal_races.race_dr_winter.race_drift" GUID="20TzR1n530Sk2Zuk1iMk8A=="/>
+		<POI MapID="18" xpos="366.3" ypos="69.2087" zpos="-263.586" type="beetle_gold.seasonal_races.race_dr_winter.race_drift" GUID="MarGdvzpgE+SZVKEEr3ROw=="/>
+		<POI MapID="18" xpos="129.119" ypos="56.1065" zpos="-380.963" type="beetle_gold.seasonal_races.race_dr_winter.race_drift" GUID="9Xu3ogbrAUKi+0VqaLAlbQ=="/>
+		<POI MapID="18" xpos="113.744" ypos="97.3096" zpos="-458.853" type="beetle_gold.seasonal_races.race_dr_winter.race_drift" GUID="kU9r//QJ2km+g7y1/l3PkA=="/>
+		<POI MapID="18" xpos="69.8571" ypos="79.9926" zpos="-304.767" type="beetle_gold.seasonal_races.race_dr_winter.race_drift" GUID="KERkn1BrPkyjwapI2ck20g=="/>
+		<POI MapID="18" xpos="14.6828" ypos="79.6385" zpos="-261.492" type="beetle_gold.seasonal_races.race_dr_winter.race_drift" GUID="zyQRVho4dU+XRBhuHEtBOw=="/>
+		<POI MapID="18" xpos="-8.9087" ypos="54.0095" zpos="-419.376" type="beetle_gold.seasonal_races.race_dr_winter.race_drift" GUID="BkRiOsyGzEaC8zgmLGj0pw=="/>
+		<POI MapID="18" xpos="-169.613" ypos="59.5852" zpos="-350.074" type="beetle_gold.seasonal_races.race_dr_winter.race_drift" GUID="lTEqwf3FGk+IIDry7xDT5g=="/>
+		<POI MapID="18" xpos="33.4138" ypos="65.169" zpos="291.583" type="beetle_gold.seasonal_races.race_dr_winter.race_boost" GUID="8lBarBLqVEKSSU3Be2auIw=="/>
+		<POI MapID="18" xpos="78.6677" ypos="101.197" zpos="363.785" type="beetle_gold.seasonal_races.race_dr_winter.race_boost" GUID="n+nwa+c+P0u2W2rm93xBGA=="/>
+		<POI MapID="18" xpos="184.524" ypos="138.325" zpos="28.6315" type="beetle_gold.seasonal_races.race_dr_winter.race_boost" GUID="n5sJgCew5kaLZ6p5NK+rGA=="/>
+		<POI MapID="18" xpos="113.759" ypos="63.8862" zpos="-396.75" type="beetle_gold.seasonal_races.race_dr_winter.race_boost" GUID="Kl3xHKYVPUSNcLJRWU5AsA=="/>
+		<POI MapID="18" xpos="-41.9512" ypos="53.1448" zpos="-422.508" type="beetle_gold.seasonal_races.race_dr_winter.race_boost" GUID="0pmji47Ys0GNf36CnqjRMg=="/>
+		<POI MapID="18" xpos="40.2171" ypos="81.5339" zpos="321.806" type="beetle_gold.seasonal_races.race_dr_winter.race_vigor" GUID="KP+aXuD2BkKr81aXnbuk2g=="/>
+		<POI MapID="18" xpos="118.367" ypos="140.594" zpos="93.9296" type="beetle_gold.seasonal_races.race_dr_winter.race_sharpright" GUID="G5yDCc2MlU2km4Mp07LhSw=="/>
+		<POI MapID="18" xpos="117.361" ypos="140.596" zpos="75.9645" type="beetle_gold.seasonal_races.race_dr_winter.race_sharpleft" GUID="SfpjygEAXU2EcasFVgE3gA=="/>
+		<POI MapID="18" xpos="359.117" ypos="118.934" zpos="-230.936" type="beetle_gold.seasonal_races.race_dr_winter.race_slow" GUID="D1f7+mc/TEaSyfVWGVxj9A=="/>
+		<Trail type="beetle_gold.seasonal_races.race_dr_winter.race_dr_winter_toggletrail" GUID="d3MfljLgGk6YBynBTMm+dw==" fadeNear="5000" fadeFar="5100" trailData="DATA/TRAILS/Snowfall_Sprint.trl" animSpeed="0" texture="DATA/IMG/beetle_trail_main.png"/>
+		<Trail type="beetle_gold.seasonal_races.race_dr_winter.race_dr_winter_toggletrail" GUID="1kwSVukx6kK0Ql5mWo674A==" fadeNear="5000" fadeFar="5100" trailData="DATA/TRAILS/Snowfall_Sprint_drift1.trl" animSpeed="0" texture="DATA/IMG/beetle_trail_drift.png"/>
+	</POIs>
+</OverlayData>
+
+<!--XML Formatting and Graphic Icons provided by Pewpew Kapew...Girbilcannon.8259-->

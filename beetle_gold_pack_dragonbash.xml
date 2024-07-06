@@ -1,0 +1,39 @@
+<OverlayData>
+<MarkerCategory name="beetle_gold" DisplayName="Pewpew's Power Paths">
+  <MarkerCategory name="seasonal_races" DisplayName="Seasonal Races">
+    <!--Dragon Bash Rally-->
+	<MarkerCategory name="race_hb_dragonbash" DisplayName="Dragon Bash - Dragon Bash Rally (Hoelbrak)">
+      <MarkerCategory name="race_hb_dragonbash_toggletrail" DisplayName="Toggle Trail">
+        </MarkerCategory>
+      <MarkerCategory name="race_start" DisplayName="Toggle Start Point" fadeNear="5000" fadeFar="5100" iconSize="2.0" heightOffset="4.0" iconFile="DATA/IMG/beetle_start.png"/>
+	  <MarkerCategory name="race_drift" DisplayName="Toggle Drift Signs" fadeNear="5000" fadeFar="5100" iconSize="2.0" heightOffset="3.0" iconFile="DATA/IMG/beetle_sign_drift.png"/>
+	  <MarkerCategory name="race_sharpright" DisplayName="Toggle Sharp Right Signs" fadeNear="5000" fadeFar="5100" iconSize="2.0" heightOffset="3.0" iconFile="DATA/IMG/beetle_sign_sharpright.png"/>
+	  <MarkerCategory name="race_boost" DisplayName="Toggle Boost Signs" fadeNear="5000" fadeFar="5100" iconSize="2.5" heightOffset="1.0" iconFile="DATA/IMG/beetle_sign_boost.png"/>
+	  <MarkerCategory name="race_vigor" DisplayName="Toggle Vigor Signs" fadeNear="5000" fadeFar="5100" iconSize="2.5" heightOffset="2.0" iconFile="DATA/IMG/beetle_sign_vigor.png"/>
+	  <MarkerCategory name="race_hop" DisplayName="Toggle Hop Signs" fadeNear="5000" fadeFar="5100" iconSize="2.0" heightOffset="3.0" iconFile="DATA/IMG/beetle_sign_hop.png"/>
+	  <MarkerCategory name="race_big_air" DisplayName="Toggle Big Air Signs" fadeNear="5000" fadeFar="5100" iconSize="3.0" heightOffset="0.5" iconFile="DATA/IMG/beetle_sign_bigair.png"/>
+    </MarkerCategory>
+  </MarkerCategory>
+</MarkerCategory>
+	<POIs>
+		<!--Dragon Bash Rally Markers and Trails-->		
+		<POI MapID="326" xpos="187.451" ypos="301.986" zpos="-56.8199" type="beetle_gold.seasonal_races.race_hb_dragonbash.race_start" GUID="V3yDMj9Dq0aj1jqBn7pDmA=="/>
+		<POI MapID="326" xpos="-237.345" ypos="283.372" zpos="62.506" type="beetle_gold.seasonal_races.race_hb_dragonbash.race_hop" GUID="GDpoCsPdXEOjZ5UpzsSoPw=="/>
+		<POI MapID="326" xpos="-276.962" ypos="280.32" zpos="45.5336" type="beetle_gold.seasonal_races.race_hb_dragonbash.race_drift" GUID="Cx+qkppe+ECebiX1d08uSw=="/>
+		<POI MapID="326" xpos="-257.882" ypos="268.4" zpos="96.4782" type="beetle_gold.seasonal_races.race_hb_dragonbash.race_boost" GUID="MW8jfwLcb0ydTj8GziFTGw=="/>
+		<POI MapID="326" xpos="78.3073" ypos="243.122" zpos="377.705" type="beetle_gold.seasonal_races.race_hb_dragonbash.race_boost" GUID="CcVqsGyaPU2OsfOGyfAblg=="/>
+		<POI MapID="326" xpos="458.387" ypos="207.733" zpos="362.068" type="beetle_gold.seasonal_races.race_hb_dragonbash.race_boost" GUID="IqxyHonYzkOrty24sErSxw=="/>
+		<POI MapID="326" xpos="627.663" ypos="218.801" zpos="279.743" type="beetle_gold.seasonal_races.race_hb_dragonbash.race_boost" GUID="wM1BTKuZSkC6mWNVpTfdEw=="/>
+		<POI MapID="326" xpos="552.684" ypos="255.952" zpos="41.0461" type="beetle_gold.seasonal_races.race_hb_dragonbash.race_boost" GUID="rCcOkfWHj0GkEgqQA6fpFQ=="/>
+		<POI MapID="326" xpos="488.963" ypos="297.899" zpos="-78.1827" type="beetle_gold.seasonal_races.race_hb_dragonbash.race_boost" GUID="f8MP8UNpfUW/GPNZL0DJ9Q=="/>
+		<POI MapID="326" xpos="284.813" ypos="301.969" zpos="-169.157" type="beetle_gold.seasonal_races.race_hb_dragonbash.race_boost" GUID="HrTHTTcOFES2gCCjeMwTqQ=="/>
+		<POI MapID="326" xpos="134.075" ypos="269.661" zpos="281.44" type="beetle_gold.seasonal_races.race_hb_dragonbash.race_big_air" GUID="/2hVEyz420+WLR3MJNHqIA=="/>
+		<POI MapID="326" xpos="612.922" ypos="219.035" zpos="295.189" type="beetle_gold.seasonal_races.race_hb_dragonbash.race_sharpright" GUID="mzu3tm/mnEuICLWfKhq9AA=="/>
+		<POI MapID="326" xpos="470.792" ypos="307.566" zpos="-193.416" type="beetle_gold.seasonal_races.race_hb_dragonbash.race_hop" GUID="1VvNXg8VG0GWcWK+SYQCVQ=="/>
+		<POI MapID="326" xpos="421.455" ypos="310.444" zpos="-229.356" type="beetle_gold.seasonal_races.race_hb_dragonbash.race_vigor" GUID="xo5xApTReUy7V8jsZFXFfQ=="/>
+		<Trail type="beetle_gold.seasonal_races.race_hb_dragonbash.race_hb_dragonbash_toggletrail" GUID="0k3l4C1RyEi39ktsAcgtYg==" fadeNear="5000" fadeFar="5100" trailData="DATA/TRAILS/Dragon_Bash_Rally.trl" animSpeed="0" texture="DATA/IMG/beetle_trail_main.png"/>
+		<Trail type="beetle_gold.seasonal_races.race_hb_dragonbash.race_hb_dragonbash_toggletrail" GUID="V4ESPRI9/Eq4VBPNupLGbw==" fadeNear="5000" fadeFar="5100" trailData="DATA/TRAILS/Dragon_Bash_Rally_drift1.trl" animSpeed="0" texture="DATA/IMG/beetle_trail_drift.png"/>
+	</POIs>
+</OverlayData>
+
+<!--XML Formatting and Graphic Icons provided by Pewpew Kapew...Girbilcannon.8259-->

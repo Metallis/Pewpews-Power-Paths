@@ -1,0 +1,219 @@
+<OverlayData>
+<MarkerCategory name="beetle_gold" DisplayName="Pewpew's Power Paths">
+  <MarkerCategory name="official_races" DisplayName="Official Races">
+    <!--Tropic Valley Raceway-->
+	<MarkerCategory name="race_brisban" DisplayName="Tropic Valley Raceway (Brisban Wildlands)">
+      <MarkerCategory name="race_brisban_toggletrail" DisplayName="Toggle Trail">
+        </MarkerCategory>
+      <MarkerCategory name="race_start" DisplayName="Toggle Start Point" fadeNear="5000" fadeFar="5100" iconSize="2.0" heightOffset="4.0" iconFile="DATA/IMG/beetle_start.png"/>
+	  <MarkerCategory name="race_drift" DisplayName="Toggle Drift Signs" fadeNear="5000" fadeFar="5100" iconSize="2.0" heightOffset="3.0" iconFile="DATA/IMG/beetle_sign_drift.png"/>
+	  <MarkerCategory name="race_big_air" DisplayName="Toggle Big Air Signs" fadeNear="5000" fadeFar="5100" iconSize="3.0" heightOffset="0.5" iconFile="DATA/IMG/beetle_sign_bigair.png"/>
+	  <MarkerCategory name="race_hop" DisplayName="Toggle Hop Signs" fadeNear="5000" fadeFar="5100" iconSize="2.0" heightOffset="3.0" iconFile="DATA/IMG/beetle_sign_hop.png"/>
+	  <MarkerCategory name="race_sharpleft" DisplayName="Toggle Sharp Left Signs" fadeNear="5000" fadeFar="5100" iconSize="2.0" heightOffset="3.0" iconFile="DATA/IMG/beetle_sign_sharpleft.png"/>
+	  <MarkerCategory name="race_boost" DisplayName="Toggle Boost Signs" fadeNear="5000" fadeFar="5100" iconSize="2.5" heightOffset="1.0" iconFile="DATA/IMG/beetle_sign_boost.png"/>
+	  <MarkerCategory name="race_vigor" DisplayName="Toggle Vigor Signs" fadeNear="5000" fadeFar="5100" iconSize="2.5" heightOffset="2.0" iconFile="DATA/IMG/beetle_sign_vigor.png"/>
+    </MarkerCategory>
+	<!--Kessex Corner-->
+	<MarkerCategory name="race_kessex" DisplayName="Kessex Corner (Kessex Hills)">
+      <MarkerCategory name="race_kessex_toggletrail" DisplayName="Toggle Trail">
+        </MarkerCategory>
+      <MarkerCategory name="race_start" DisplayName="Toggle Start Point" fadeNear="5000" fadeFar="5100" iconSize="2.0" heightOffset="4.0" iconFile="DATA/IMG/beetle_start.png"/>
+	  <MarkerCategory name="race_drift" DisplayName="Toggle Drift Signs" fadeNear="5000" fadeFar="5100" iconSize="2.0" heightOffset="3.0" iconFile="DATA/IMG/beetle_sign_drift.png"/>
+	  <MarkerCategory name="race_boost" DisplayName="Toggle Boost Signs" fadeNear="5000" fadeFar="5100" iconSize="2.5" heightOffset="1.0" iconFile="DATA/IMG/beetle_sign_boost.png"/>
+	  <MarkerCategory name="race_vigor" DisplayName="Toggle Vigor Signs" fadeNear="5000" fadeFar="5100" iconSize="2.5" heightOffset="2.0" iconFile="DATA/IMG/beetle_sign_vigor.png"/>
+    </MarkerCategory>
+	<!--Lakeside Loop-->
+	<MarkerCategory name="race_gendarran" DisplayName="Lakeside Loop (Gendarran Fields)">
+      <MarkerCategory name="race_gendarran_toggletrail" DisplayName="Toggle Trail">
+        </MarkerCategory>
+      <MarkerCategory name="race_start" DisplayName="Toggle Start Point" fadeNear="5000" fadeFar="5100" iconSize="2.0" heightOffset="4.0" iconFile="DATA/IMG/beetle_start.png"/>
+	  <MarkerCategory name="race_big_air" DisplayName="Toggle Big Air Signs" fadeNear="5000" fadeFar="5100" iconSize="3.0" heightOffset="2.0" iconFile="DATA/IMG/beetle_sign_bigair.png"/>
+	  <MarkerCategory name="race_boost" DisplayName="Toggle Boost Signs" fadeNear="5000" fadeFar="5100" iconSize="2.5" heightOffset="1.0" iconFile="DATA/IMG/beetle_sign_boost.png"/>
+	  <MarkerCategory name="race_vigor" DisplayName="Toggle Vigor Signs" fadeNear="5000" fadeFar="5100" iconSize="2.5" heightOffset="2.0" iconFile="DATA/IMG/beetle_sign_vigor.png"/>
+	  <MarkerCategory name="race_hop" DisplayName="Toggle Hop Signs" fadeNear="5000" fadeFar="5100" iconSize="2.0" heightOffset="3.0" iconFile="DATA/IMG/beetle_sign_hop.png"/>
+    </MarkerCategory>
+	<!--Jormag's Fang-->
+	<MarkerCategory name="race_snowden" DisplayName="Jormag's Fang (Snowden Drifts)">
+      <MarkerCategory name="race_snowden_toggletrail" DisplayName="Toggle Trail">
+        </MarkerCategory>
+      <MarkerCategory name="race_start" DisplayName="Toggle Start Point" fadeNear="5000" fadeFar="5100" iconSize="2.0" heightOffset="4.0" iconFile="DATA/IMG/beetle_start.png"/>
+	  <MarkerCategory name="race_drift" DisplayName="Toggle Drift Signs" fadeNear="5000" fadeFar="5100" iconSize="2.0" heightOffset="3.0" iconFile="DATA/IMG/beetle_sign_drift.png"/>
+	  <MarkerCategory name="race_big_air" DisplayName="Toggle Big Air Signs" fadeNear="5000" fadeFar="5100" iconSize="3.0" heightOffset="1.7" iconFile="DATA/IMG/beetle_sign_bigair.png"/>
+	  <MarkerCategory name="race_sharpright" DisplayName="Toggle Sharp Right Signs" fadeNear="5000" fadeFar="5100" iconSize="2.0" heightOffset="3.0" iconFile="DATA/IMG/beetle_sign_sharpright.png"/>
+	  <MarkerCategory name="race_boost" DisplayName="Toggle Boost Signs" fadeNear="5000" fadeFar="5100" iconSize="2.5" heightOffset="1.0" iconFile="DATA/IMG/beetle_sign_boost.png"/>
+    </MarkerCategory>
+	<!--Ghostfire Run-->
+	<MarkerCategory name="race_diessa" DisplayName="Ghostfire Run (Diessa Plateau)">
+      <MarkerCategory name="race_diessa_toggletrail" DisplayName="Toggle Trail">
+        </MarkerCategory>
+      <MarkerCategory name="race_start" DisplayName="Toggle Start Point" fadeNear="5000" fadeFar="5100" iconSize="2.0" heightOffset="4.0" iconFile="DATA/IMG/beetle_start.png"/>
+	  <MarkerCategory name="race_big_air" DisplayName="Toggle Big Air Signs" fadeNear="5000" fadeFar="5100" iconSize="3.0" heightOffset="2.0" iconFile="DATA/IMG/beetle_sign_bigair.png"/>
+	  <MarkerCategory name="race_boost" DisplayName="Toggle Boost Signs" fadeNear="5000" fadeFar="5100" iconSize="2.5" heightOffset="1.0" iconFile="DATA/IMG/beetle_sign_boost.png"/>
+	  <MarkerCategory name="race_vigor" DisplayName="Toggle Vigor Signs" fadeNear="5000" fadeFar="5100" iconSize="2.5" heightOffset="2.0" iconFile="DATA/IMG/beetle_sign_vigor.png"/>
+	  <MarkerCategory name="race_hop" DisplayName="Toggle Hop Signs" fadeNear="5000" fadeFar="5100" iconSize="2.0" heightOffset="3.0" iconFile="DATA/IMG/beetle_sign_hop.png"/>
+	  <MarkerCategory name="race_drift" DisplayName="Toggle Drift Signs" fadeNear="5000" fadeFar="5100" iconSize="2.0" heightOffset="3.0" iconFile="DATA/IMG/beetle_sign_drift.png"/>
+	  <MarkerCategory name="race_sharpleft" DisplayName="Toggle Sharp Left Signs" fadeNear="5000" fadeFar="5100" iconSize="2.0" heightOffset="3.0" iconFile="DATA/IMG/beetle_sign_sharpleft.png"/>
+    </MarkerCategory>
+	<!--Infernal Leap-->
+	<MarkerCategory name="race_mm" DisplayName="Infernal Leap (Mount Maelstrom)">
+      <MarkerCategory name="race_mm_toggletrail" DisplayName="Toggle Trail">
+        </MarkerCategory>
+      <MarkerCategory name="race_start" DisplayName="Toggle Start Point" fadeNear="5000" fadeFar="5100" iconSize="2.0" heightOffset="4.0" iconFile="DATA/IMG/beetle_start.png"/>
+	  <MarkerCategory name="race_big_air" DisplayName="Toggle Big Air Signs" fadeNear="5000" fadeFar="5100" iconSize="3.0" heightOffset="2.0" iconFile="DATA/IMG/beetle_sign_bigair.png"/>
+	  <MarkerCategory name="race_boost" DisplayName="Toggle Boost Signs" fadeNear="5000" fadeFar="5100" iconSize="2.5" heightOffset="1.0" iconFile="DATA/IMG/beetle_sign_boost.png"/>
+	  <MarkerCategory name="race_vigor" DisplayName="Toggle Vigor Signs" fadeNear="5000" fadeFar="5100" iconSize="2.5" heightOffset="2.0" iconFile="DATA/IMG/beetle_sign_vigor.png"/>
+	  <MarkerCategory name="race_hop" DisplayName="Toggle Hop Signs" fadeNear="5000" fadeFar="5100" iconSize="2.0" heightOffset="1.5" iconFile="DATA/IMG/beetle_sign_hop.png"/>
+	  <MarkerCategory name="race_drift" DisplayName="Toggle Drift Signs" fadeNear="5000" fadeFar="5100" iconSize="2.0" heightOffset="2.0" iconFile="DATA/IMG/beetle_sign_drift.png"/>
+	  <MarkerCategory name="race_sharpleft" DisplayName="Toggle Sharp Left Signs" fadeNear="5000" fadeFar="5100" iconSize="2.0" heightOffset="3.0" iconFile="DATA/IMG/beetle_sign_sharpleft.png"/>
+    </MarkerCategory>
+	<!--Grothmar Grand Tour-->
+	<MarkerCategory name="race_grothmar" DisplayName="Grothmar Grand Tour (Grothmar Valley)">
+      <MarkerCategory name="race_grothmar_toggletrail" DisplayName="Toggle Trail">
+        </MarkerCategory>
+      <MarkerCategory name="race_start" DisplayName="Toggle Start Point" fadeNear="5000" fadeFar="5100" iconSize="2.0" heightOffset="4.0" iconFile="DATA/IMG/beetle_start.png"/>
+	  <MarkerCategory name="race_big_air" DisplayName="Toggle Big Air Signs" fadeNear="5000" fadeFar="5100" iconSize="3.0" heightOffset="2.0" iconFile="DATA/IMG/beetle_sign_bigair.png"/>
+	  <MarkerCategory name="race_boost" DisplayName="Toggle Boost Signs" fadeNear="5000" fadeFar="5100" iconSize="2.5" heightOffset="1.0" iconFile="DATA/IMG/beetle_sign_boost.png"/>
+	  <MarkerCategory name="race_vigor" DisplayName="Toggle Vigor Signs" fadeNear="5000" fadeFar="5100" iconSize="2.5" heightOffset="2.0" iconFile="DATA/IMG/beetle_sign_vigor.png"/>
+	  <MarkerCategory name="race_hop" DisplayName="Toggle Hop Signs" fadeNear="5000" fadeFar="5100" iconSize="2.0" heightOffset="3.0" iconFile="DATA/IMG/beetle_sign_hop.png"/>
+	  <MarkerCategory name="race_drift" DisplayName="Toggle Drift Signs" fadeNear="5000" fadeFar="5100" iconSize="2.0" heightOffset="2.0" iconFile="DATA/IMG/beetle_sign_drift.png"/>
+    </MarkerCategory>
+  </MarkerCategory>
+</MarkerCategory>
+	<POIs>
+		<!--Tropic Valley Raceway Markers and Trails-->
+		<POI MapID="54" xpos="-849.852" ypos="65.9682" zpos="392.82" type="beetle_gold.official_races.race_brisban.race_start" GUID="rqu4I1PgxEyJ2EhZDLNTPw=="/>
+		<POI MapID="54" xpos="-409.91" ypos="2.70584" zpos="-544.513" type="beetle_gold.official_races.race_brisban.race_drift" GUID="bybisNFhK0OoqQFFE+TAgw=="/>
+		<POI MapID="54" xpos="337.85" ypos="29.0718" zpos="-606.67" type="beetle_gold.official_races.race_brisban.race_drift" GUID="CWBSCImOgEy3JmMMrPWCLA=="/>
+		<POI MapID="54" xpos="-521.664" ypos="24.3621" zpos="-402.967" type="beetle_gold.official_races.race_brisban.race_big_air" GUID="M98QnbPibEmmLQhpnr1PXA=="/>
+		<POI MapID="54" xpos="-325.374" ypos="29.4581" zpos="-380.116" type="beetle_gold.official_races.race_brisban.race_big_air" GUID="eSzN2pL/MUSHn46zLKLkzg=="/>
+		<POI MapID="54" xpos="326.686" ypos="46.4896" zpos="-387.794" type="beetle_gold.official_races.race_brisban.race_big_air" GUID="og11c0qXlECzfv+Yh47zWg=="/>
+		<POI MapID="54" xpos="677.237" ypos="58.4674" zpos="-561.893" type="beetle_gold.official_races.race_brisban.race_big_air" GUID="GOis+UPJ90K1B3llMXkLNw=="/>
+		<POI MapID="54" xpos="836.77" ypos="64.5487" zpos="359.903" type="beetle_gold.official_races.race_brisban.race_big_air" GUID="4PWm1y0u+0qGSeVbHSGq7A=="/>
+		<POI MapID="54" xpos="38.8308" ypos="43.5452" zpos="596.698" type="beetle_gold.official_races.race_brisban.race_big_air" GUID="23nJpiNjokCt8vfhJ4S4pg=="/>
+		<POI MapID="54" xpos="-776.026" ypos="61.0409" zpos="245.589" type="beetle_gold.official_races.race_brisban.race_hop" GUID="MNXc6ujj60CR6ufbT1FRnA=="/>
+		<POI MapID="54" xpos="-537.777" ypos="26.7452" zpos="-380.167" type="beetle_gold.official_races.race_brisban.race_hop" GUID="ufI9BwW5KkaoE4k31GbmTg=="/>
+		<POI MapID="54" xpos="-315.302" ypos="25.876" zpos="-415.797" type="beetle_gold.official_races.race_brisban.race_hop" GUID="puAe1FnZG0Sy/MdUikO3kg=="/>
+		<POI MapID="54" xpos="657.715" ypos="52.5051" zpos="-575.644" type="beetle_gold.official_races.race_brisban.race_hop" GUID="nukYXuDPdUOkLvUOB7EdPQ=="/>
+		<POI MapID="54" xpos="98.2399" ypos="66.7329" zpos="599.996" type="beetle_gold.official_races.race_brisban.race_hop" GUID="KcciNu5k0U6cgglbGN5Wpw=="/>
+		<POI MapID="54" xpos="-648.478" ypos="27.8719" zpos="-270.79" type="beetle_gold.official_races.race_brisban.race_sharpleft" GUID="0jBOBHqqgU6lMEPKIKx8aw=="/>
+		<POI MapID="54" xpos="-462.748" ypos="11.1596" zpos="693.758" type="beetle_gold.official_races.race_brisban.race_sharpleft" GUID="HJvPZE2r2UG8RJkxyw/JVQ=="/>
+		<POI MapID="54" xpos="-670.108" ypos="25.7505" zpos="-70.7672" type="beetle_gold.official_races.race_brisban.race_boost" GUID="6/Wwy2eJvkqtS9a1hMI6BQ=="/>
+		<POI MapID="54" xpos="-503.386" ypos="-0.0816474" zpos="-438.586" type="beetle_gold.official_races.race_brisban.race_boost" GUID="Gb8KGGV6MEWsUG4hlfdQAQ=="/>
+		<POI MapID="54" xpos="-328.627" ypos="17.7707" zpos="-536.522" type="beetle_gold.official_races.race_brisban.race_boost" GUID="FgQN05AB5Ea+b2dAap9qmA=="/>
+		<POI MapID="54" xpos="-136.212" ypos="19.709" zpos="-199.999" type="beetle_gold.official_races.race_brisban.race_boost" GUID="mHB2DnQP0EWl/lclajEBAA=="/>
+		<POI MapID="54" xpos="150.092" ypos="45.0831" zpos="-193.546" type="beetle_gold.official_races.race_brisban.race_boost" GUID="RohPsg8A/kCHDNadLOl88w=="/>
+		<POI MapID="54" xpos="384.578" ypos="28.9963" zpos="-619.476" type="beetle_gold.official_races.race_brisban.race_boost" GUID="4dodrpEvwE2r9z+82+7hpQ=="/>
+		<POI MapID="54" xpos="573.06" ypos="31.522" zpos="-573.695" type="beetle_gold.official_races.race_brisban.race_boost" GUID="5gyVw5Ux5Ui4RgqwvFPAVw=="/>
+		<POI MapID="54" xpos="864.024" ypos="26.5364" zpos="-250.999" type="beetle_gold.official_races.race_brisban.race_boost" GUID="fm3V5/zexkaKoeKlfiunQA=="/>
+		<POI MapID="54" xpos="844.477" ypos="54.354" zpos="-11.7718" type="beetle_gold.official_races.race_brisban.race_boost" GUID="d7kicmZErk2bv4H2wop9ig=="/>
+		<POI MapID="54" xpos="810.33" ypos="51.5021" zpos="542.554" type="beetle_gold.official_races.race_brisban.race_boost" GUID="SkIQq0B/fUWeeLoctmPibQ=="/>
+		<POI MapID="54" xpos="554.025" ypos="82.8548" zpos="554.465" type="beetle_gold.official_races.race_brisban.race_boost" GUID="A6y638OVsUySjJEiOCF+Rw=="/>
+		<POI MapID="54" xpos="-251.167" ypos="1.41152" zpos="705.673" type="beetle_gold.official_races.race_brisban.race_boost" GUID="y4s1bLRY8E6h7C5SUJvZFA=="/>
+		<POI MapID="54" xpos="-553.518" ypos="41.5895" zpos="625.081" type="beetle_gold.official_races.race_brisban.race_boost" GUID="xYoAJoiE5k+pos/Xs0Njig=="/>
+		<POI MapID="54" xpos="-101.315" ypos="28.8176" zpos="-202.971" type="beetle_gold.official_races.race_brisban.race_vigor" GUID="H/DJfkZ77kW6aDmd32EhcQ=="/>
+		<POI MapID="54" xpos="772.423" ypos="59.5766" zpos="547.656" type="beetle_gold.official_races.race_brisban.race_vigor" GUID="x8E5CMXhEEiEXPtvZx7/pQ=="/>
+		<Trail type="beetle_gold.official_races.race_brisban.race_brisban_toggletrail" GUID="p6tcgK5ctUGHKQEuDahSeA==" fadeNear="5000" fadeFar="5100" trailData="DATA/TRAILS/Tropic_Valley_Raceway.trl" animSpeed="0" texture="DATA/IMG/beetle_trail_main.png"/>
+		<Trail type="beetle_gold.official_races.race_brisban.race_brisban_toggletrail" GUID="F6zwKX1BtkmupZqNVD2JWg==" fadeNear="5000" fadeFar="5100" trailData="DATA/TRAILS/Tropic_Valley_Raceway_drift1.trl" animSpeed="0" texture="DATA/IMG/beetle_trail_drift.png"/>
+		<Trail type="beetle_gold.official_races.race_brisban.race_brisban_toggletrail" GUID="S22fSM0Pu0GksOYJ5TYUhg==" fadeNear="5000" fadeFar="5100" trailData="DATA/TRAILS/Tropic_Valley_Raceway_drift2.trl" animSpeed="0" texture="DATA/IMG/beetle_trail_drift.png"/>
+		<!--Kessex Corner Markers and Trails-->
+		<POI MapID="23" xpos="310.603" ypos="69.7434" zpos="-573.066" type="beetle_gold.official_races.race_kessex.race_start" GUID="g+kFFNeUrkyIoEXUJs8SqA=="/>
+		<POI MapID="23" xpos="322.777" ypos="41.5934" zpos="-479.299" type="beetle_gold.official_races.race_kessex.race_vigor" GUID="uFi4+zXIyU6c23C9COizTg=="/>
+		<POI MapID="23" xpos="388.485" ypos="52.4208" zpos="-387.997" type="beetle_gold.official_races.race_kessex.race_drift" GUID="8w7K155gXkaz8og5/+JgbQ=="/>
+		<POI MapID="23" xpos="420.082" ypos="56.8619" zpos="-367.512" type="beetle_gold.official_races.race_kessex.race_boost" GUID="u/ix8rnl00u/MO5cU93g0g=="/>
+		<Trail type="beetle_gold.official_races.race_kessex.race_kessex_toggletrail" GUID="uoJbhik47kW0fg2CQZXCug==" fadeNear="5000" fadeFar="5100" trailData="DATA/TRAILS/Kessex_Corner.trl" animSpeed="0" texture="DATA/IMG/beetle_trail_main.png"/>
+		<Trail type="beetle_gold.official_races.race_kessex.race_kessex_toggletrail" GUID="oSwJLepEIUiR67EeOx+U+g==" fadeNear="5000" fadeFar="5100" trailData="DATA/TRAILS/Kessex_Corner_drift1.trl" animSpeed="0" texture="DATA/IMG/beetle_trail_drift.png"/>
+		<!--Lakeside Loop Markers and Trails-->
+		<POI MapID="24" xpos="318.247" ypos="39.212" zpos="519.409" type="beetle_gold.official_races.race_gendarran.race_start" GUID="/wvGKNhZVUWGRVwa+o0Yag=="/>
+		<POI MapID="24" xpos="-97.4264" ypos="8.82724" zpos="354.587" type="beetle_gold.official_races.race_gendarran.race_hop" GUID="xWR6VKDQK0SdAtSa5mfRZw=="/>
+		<POI MapID="24" xpos="-223.926" ypos="30.2584" zpos="-38.6852" type="beetle_gold.official_races.race_gendarran.race_hop" GUID="ShYmB7P+9UyRb2XZ4KP3vQ=="/>
+		<POI MapID="24" xpos="-116.829" ypos="14.9024" zpos="337.525" type="beetle_gold.official_races.race_gendarran.race_big_air" GUID="K4Wjo/uhSUWmjYQWgDlFlQ=="/>
+		<POI MapID="24" xpos="-240.196" ypos="31.8624" zpos="-61.2951" type="beetle_gold.official_races.race_gendarran.race_big_air" GUID="FF4XzNZel0GhAKY3Zxea5w=="/>
+		<POI MapID="24" xpos="480.309" ypos="17.2633" zpos="-140.998" type="beetle_gold.official_races.race_gendarran.race_big_air" GUID="z5ppotLlRUqvqd4etkjy7g=="/>
+		<POI MapID="24" xpos="414.382" ypos="30.8348" zpos="408.928" type="beetle_gold.official_races.race_gendarran.race_big_air" GUID="vn+y0oh8WEy0rluUQDuMEA=="/>
+		<POI MapID="24" xpos="539.169" ypos="10.7593" zpos="-63.8499" type="beetle_gold.official_races.race_gendarran.race_vigor" GUID="carIHM2hgUu6geKzn7MCYw=="/>
+		<POI MapID="24" xpos="-153.349" ypos="1.09831" zpos="287.437" type="beetle_gold.official_races.race_gendarran.race_boost" GUID="Cx9SOGvSA0ibrYnhG+MYQA=="/>
+		<POI MapID="24" xpos="-173.821" ypos="11.5924" zpos="33.5006" type="beetle_gold.official_races.race_gendarran.race_boost" GUID="ZcWW6iCIhUSK4H9ZHS4Fug=="/>
+		<POI MapID="24" xpos="-108.3" ypos="5.79482" zpos="-432.831" type="beetle_gold.official_races.race_gendarran.race_boost" GUID="1BxlhoecBUKcylh6WWMlFQ=="/>
+		<POI MapID="24" xpos="297.167" ypos="0.348168" zpos="-470.455" type="beetle_gold.official_races.race_gendarran.race_boost" GUID="2HdR9MALqUC746nud97kBA=="/>
+		<POI MapID="24" xpos="484.596" ypos="9.02674" zpos="-97.2534" type="beetle_gold.official_races.race_gendarran.race_boost" GUID="kmaiyGy4lkyBfdAkLz74EA=="/>
+		<POI MapID="24" xpos="617.517" ypos="7.52205" zpos="100.297" type="beetle_gold.official_races.race_gendarran.race_boost" GUID="WDMZk/EGFkSOnLouxattag=="/>
+		<POI MapID="24" xpos="484.731" ypos="44.1367" zpos="357.503" type="beetle_gold.official_races.race_gendarran.race_boost" GUID="o5AW7rAvkEWKAJZ1Y7/q0Q=="/>
+		<Trail type="beetle_gold.official_races.race_gendarran.race_gendarran_toggletrail" GUID="K5NRKWxPtUy39Xv+ZoYdnw==" fadeNear="5000" fadeFar="5100" trailData="DATA/TRAILS/Lakeside_Loop.trl" animSpeed="0" texture="DATA/IMG/beetle_trail_main.png"/>
+		<!--Jormag's Fang Markers and Trails-->
+		<POI MapID="31" xpos="259.133" ypos="36.2384" zpos="-62.2112" type="beetle_gold.official_races.race_snowden.race_start" GUID="vaskCRvkJUuvQStyQMFySw=="/>
+		<POI MapID="31" xpos="106.876" ypos="48.6678" zpos="-238.275" type="beetle_gold.official_races.race_snowden.race_boost" GUID="DPV0Rnu2yUyYlMZqcGyfcw=="/>
+		<POI MapID="31" xpos="87.168" ypos="50.1467" zpos="-24.3784" type="beetle_gold.official_races.race_snowden.race_boost" GUID="sKVnPJvuekSWK3N9rEQ57A=="/>
+		<POI MapID="31" xpos="352.953" ypos="27.7061" zpos="20.5595" type="beetle_gold.official_races.race_snowden.race_boost" GUID="Q747pWLuFE6VCOE4N88YNw=="/>
+		<POI MapID="31" xpos="300.732" ypos="35.239" zpos="-36.6268" type="beetle_gold.official_races.race_snowden.race_boost" GUID="ykOVOE6Mn0e5wjhgGIE1vw=="/>
+		<POI MapID="31" xpos="-64.3611" ypos="58.8892" zpos="-97.407" type="beetle_gold.official_races.race_snowden.race_big_air" GUID="L21DQJLp9EOE1e54VrXGHw=="/>
+		<POI MapID="31" xpos="-34.1621" ypos="60.3243" zpos="-21.0322" type="beetle_gold.official_races.race_snowden.race_sharpright" GUID="fkPudBJ0GESZh3IRHbJ0nA=="/>
+		<POI MapID="31" xpos="300.021" ypos="37.9135" zpos="82.1708" type="beetle_gold.official_races.race_snowden.race_drift" GUID="nr7TK1yQx0yhWZA9zWI42Q=="/>
+		<Trail type="beetle_gold.official_races.race_snowden.race_snowden_toggletrail" GUID="EJIuUcXbjUmeSBTJ3if+Lg==" fadeNear="5000" fadeFar="5100" trailData="DATA/TRAILS/Jormags_Fang.trl" animSpeed="0" texture="DATA/IMG/beetle_trail_main.png"/>
+		<Trail type="beetle_gold.official_races.race_snowden.race_snowden_toggletrail" GUID="ccBgVKrLTUq7ineN/GWuPA==" fadeNear="5000" fadeFar="5100" trailData="DATA/TRAILS/Jormags_Fang_drift1.trl" animSpeed="0" texture="DATA/IMG/beetle_trail_drift.png"/>
+		<!--Ghostfire Run Markers and Trails-->
+		<POI MapID="32" xpos="-148.163" ypos="32.148" zpos="-530.591" type="beetle_gold.official_races.race_diessa.race_start" GUID="1Q8At2S1JU+4C1BPhcj3dw=="/>
+		<POI MapID="32" xpos="152.744" ypos="19.6222" zpos="-520.469" type="beetle_gold.official_races.race_diessa.race_boost" GUID="Q9l4EVfLmUmUgiEiDLMYlw=="/>
+		<POI MapID="32" xpos="657.05" ypos="24.6441" zpos="-244.486" type="beetle_gold.official_races.race_diessa.race_boost" GUID="NPhNj8QfQkWyacY/BE5Crg=="/>
+		<POI MapID="32" xpos="629.573" ypos="26.8483" zpos="355.671" type="beetle_gold.official_races.race_diessa.race_boost" GUID="uFA7vS25kEyb2o7nSJtabA=="/>
+		<POI MapID="32" xpos="396.294" ypos="12.5463" zpos="209.731" type="beetle_gold.official_races.race_diessa.race_boost" GUID="edREhmoN1UOnDnADso6oFw=="/>
+		<POI MapID="32" xpos="424.744" ypos="22.0626" zpos="-23.8561" type="beetle_gold.official_races.race_diessa.race_boost" GUID="2gsdkxTrTE+LvutPRZRdXw=="/>
+		<POI MapID="32" xpos="93.2225" ypos="12.0758" zpos="20.8976" type="beetle_gold.official_races.race_diessa.race_boost" GUID="oCcdwThblk+N5HztVLmJ9Q=="/>
+		<POI MapID="32" xpos="-420.523" ypos="44.2764" zpos="-68.6962" type="beetle_gold.official_races.race_diessa.race_boost" GUID="EftdFfB8I0OJok9kE0zRQA=="/>
+		<POI MapID="32" xpos="-313.097" ypos="35.4532" zpos="-464.116" type="beetle_gold.official_races.race_diessa.race_boost" GUID="YT9xaH8IfE+EE949zSJ2LQ=="/>
+		<POI MapID="32" xpos="416.962" ypos="3.03508" zpos="299.489" type="beetle_gold.official_races.race_diessa.race_drift" GUID="jVdFSVSykUS837Q3SV3d2w=="/>
+		<POI MapID="32" xpos="489.993" ypos="26.0833" zpos="41.8112" type="beetle_gold.official_races.race_diessa.race_drift" GUID="i/jZ/ttA9EeMaG+K8puiiQ=="/>
+		<POI MapID="32" xpos="350.691" ypos="40.0886" zpos="-72.5578" type="beetle_gold.official_races.race_diessa.race_big_air" GUID="7vkLu0k7N0+gAC2GHUXlLw=="/>
+		<POI MapID="32" xpos="163.671" ypos="29.6908" zpos="-5.72508" type="beetle_gold.official_races.race_diessa.race_big_air" GUID="ib1A/V2hM0yJ/iHbtwkkBQ=="/>
+		<POI MapID="32" xpos="178.599" ypos="32.8394" zpos="-12.1291" type="beetle_gold.official_races.race_diessa.race_hop" GUID="hd3w05JEwUKEY9wjfUZGHA=="/>
+		<POI MapID="32" xpos="-423.723" ypos="40.5995" zpos="-22.5368" type="beetle_gold.official_races.race_diessa.race_sharpleft" GUID="4KMvf/mnsUuLQm6tSw8dvg=="/>
+		<POI MapID="32" xpos="-388.302" ypos="42.243" zpos="-101.109" type="beetle_gold.official_races.race_diessa.race_vigor" GUID="Es+HMxZswEiRfU3YjQ+mvw=="/>
+		<Trail type="beetle_gold.official_races.race_diessa.race_diessa_toggletrail" GUID="anABA6XUvU2WZsPr3vixcg==" fadeNear="5000" fadeFar="5100" trailData="DATA/TRAILS/Ghostfire_Run.trl" animSpeed="0" texture="DATA/IMG/beetle_trail_main.png"/>
+		<Trail type="beetle_gold.official_races.race_diessa.race_diessa_toggletrail" GUID="ltjZz1lLCUit1QnFkmwuvg==" fadeNear="5000" fadeFar="5100" trailData="DATA/TRAILS/Ghostfire_Run_drift1.trl" animSpeed="0" texture="DATA/IMG/beetle_trail_drift.png"/>
+		<!--Infernal Leap Markers and Trails-->
+		<POI MapID="39" xpos="250.424" ypos="4.67798" zpos="-554.532" type="beetle_gold.official_races.race_mm.race_start" GUID="tyQ8Sy3+mEa2xcVxsuqtVw=="/>
+		<POI MapID="39" xpos="59.3951" ypos="42.9634" zpos="-585.323" type="beetle_gold.official_races.race_mm.race_boost" GUID="cYKo0GO4EEiizGPe1k6kWg=="/>
+		<POI MapID="39" xpos="-16.3503" ypos="78.254" zpos="-299.099" type="beetle_gold.official_races.race_mm.race_boost" GUID="tr5hlPiDt0uxNTntPlBVpA=="/>
+		<POI MapID="39" xpos="-142.309" ypos="71.6639" zpos="187.988" type="beetle_gold.official_races.race_mm.race_boost" GUID="uekG8SE51Uy7mQuuX8AJDw=="/>
+		<POI MapID="39" xpos="-428.239" ypos="70.9677" zpos="-21.4449" type="beetle_gold.official_races.race_mm.race_boost" GUID="ejYunzjruUKj8hJGRFtNiQ=="/>
+		<POI MapID="39" xpos="-143.572" ypos="16.8992" zpos="-446.673" type="beetle_gold.official_races.race_mm.race_boost" GUID="MTR4A5v96068rYwfoHlu/g=="/>
+		<POI MapID="39" xpos="-26.1938" ypos="60.8318" zpos="-180.17" type="beetle_gold.official_races.race_mm.race_boost" GUID="FdijGQzsEk6penoD/1zZsw=="/>
+		<POI MapID="39" xpos="8.92532" ypos="65.6292" zpos="-561.561" type="beetle_gold.official_races.race_mm.race_vigor" GUID="/94rBMUBhU67Q0+wp+yCgg=="/>
+		<POI MapID="39" xpos="-39.6447" ypos="75.2181" zpos="-195.108" type="beetle_gold.official_races.race_mm.race_hop" GUID="yv4dlL02JEGaR2jaqEPmWw=="/>
+		<POI MapID="39" xpos="-41.13" ypos="69.4419" zpos="-163.017" type="beetle_gold.official_races.race_mm.race_big_air" GUID="ZJoOZHhIiUuvw40OZoJdlg=="/>
+		<POI MapID="39" xpos="74.872" ypos="36.6088" zpos="-369.419" type="beetle_gold.official_races.race_mm.race_big_air" GUID="PNNASvL2WEay42Fp1hh6cA=="/>
+		<POI MapID="39" xpos="58.1764" ypos="42.9713" zpos="-346.089" type="beetle_gold.official_races.race_mm.race_hop" GUID="6fmyays790iOp7HSjlQx/w=="/>
+		<POI MapID="39" xpos="-480.952" ypos="71.8053" zpos="67.3036" type="beetle_gold.official_races.race_mm.race_drift" GUID="DDrd1p8Xjkion/tE4X2vrA=="/>
+		<POI MapID="39" xpos="-446.883" ypos="71.5536" zpos="19.3359" type="beetle_gold.official_races.race_mm.race_drift" GUID="IS1fD9GtkkSTp5oeZC14yg=="/>
+		<POI MapID="39" xpos="-177.947" ypos="17.2465" zpos="-421.288" type="beetle_gold.official_races.race_mm.race_drift" GUID="AboTqzijoUOPaUPyEgV1kA=="/>
+		<POI MapID="39" xpos="-70.7654" ypos="41.9461" zpos="-197.677" type="beetle_gold.official_races.race_mm.race_drift" GUID="tSI1MoAAYUCf8ruRqyqibw=="/>
+		<POI MapID="39" xpos="-327.661" ypos="9.6048" zpos="-261.274" type="beetle_gold.official_races.race_mm.race_sharpleft" GUID="yOUmvuzvl0uJC26d31fPlA=="/>
+		<Trail type="beetle_gold.official_races.race_mm.race_mm_toggletrail" GUID="J5RBZahthUquBSyV1LJ7Uw==" fadeNear="5000" fadeFar="5100" trailData="DATA/TRAILS/Infernal_Leap.trl" animSpeed="0" texture="DATA/IMG/beetle_trail_main.png"/>
+		<Trail type="beetle_gold.official_races.race_mm.race_mm_toggletrail" GUID="ZZHjdLBUB0iIOGoAZhY6sA==" fadeNear="5000" fadeFar="5100" trailData="DATA/TRAILS/Infernal_Leap_drift1.trl" animSpeed="0" texture="DATA/IMG/beetle_trail_drift.png"/>
+		<!--Grothmar Grand Tour Markers and Trails-->
+		<POI MapID="1330" xpos="517.693" ypos="20.3989" zpos="141.132" type="beetle_gold.official_races.race_grothmar.race_start" GUID="y+hBLWZZeECx4eDqAEWVOQ=="/>
+		<POI MapID="1330" xpos="-214.251" ypos="27.9394" zpos="368.897" type="beetle_gold.official_races.race_grothmar.race_drift" GUID="nkcwLUBvbkOfjjQCtxQj0Q=="/>
+		<POI MapID="1330" xpos="-291.523" ypos="11.5898" zpos="322.3" type="beetle_gold.official_races.race_grothmar.race_drift" GUID="toqse2d0xUyStd+yUNz0+Q=="/>
+		<POI MapID="1330" xpos="-295.829" ypos="3.26737" zpos="259.505" type="beetle_gold.official_races.race_grothmar.race_drift" GUID="eOtbCCO6NkiLstTM7Dr1yg=="/>
+		<POI MapID="1330" xpos="154.424" ypos="70.1129" zpos="321.569" type="beetle_gold.official_races.race_grothmar.race_hop" GUID="vDIKJO4dLU2KxXmJOwm6AQ=="/>
+		<POI MapID="1330" xpos="374.878" ypos="43.6265" zpos="318.745" type="beetle_gold.official_races.race_grothmar.race_boost" GUID="4aYxsChtWkOs+FrILvkSvQ=="/>
+		<POI MapID="1330" xpos="-271.41" ypos="2.56645" zpos="232.336" type="beetle_gold.official_races.race_grothmar.race_boost" GUID="Is8+gEDktkuq/VQkeJlM2A=="/>
+		<POI MapID="1330" xpos="-50.2818" ypos="13.8195" zpos="141.652" type="beetle_gold.official_races.race_grothmar.race_drift" GUID="4szjNfKgRkaXs5rPKsW2wg=="/>
+		<POI MapID="1330" xpos="-47.8486" ypos="16.4485" zpos="67.3829" type="beetle_gold.official_races.race_grothmar.race_drift" GUID="dEcH3J3z50+ltEFvFz+pLQ=="/>
+		<POI MapID="1330" xpos="-295.064" ypos="29.5917" zpos="13.7243" type="beetle_gold.official_races.race_grothmar.race_boost" GUID="JziSBQVbREKLvkpfdJ0jSA=="/>
+		<POI MapID="1330" xpos="-508.149" ypos="79.0583" zpos="-75.5341" type="beetle_gold.official_races.race_grothmar.race_boost" GUID="SB1OWwxZmkGd6k6LNy5J+w=="/>
+		<POI MapID="1330" xpos="-290.027" ypos="29.4679" zpos="-269.469" type="beetle_gold.official_races.race_grothmar.race_boost" GUID="RGv+LcR3202cNQen/CtJ5A=="/>
+		<POI MapID="1330" xpos="-196.465" ypos="5.87186" zpos="-413.912" type="beetle_gold.official_races.race_grothmar.race_hop" GUID="tL1d/LjhrkiHJTRoY7D1dg=="/>
+		<POI MapID="1330" xpos="-153.013" ypos="16.6888" zpos="-590.599" type="beetle_gold.official_races.race_grothmar.race_drift" GUID="2Jqr8bXz60mdjnjPdggz0g=="/>
+		<POI MapID="1330" xpos="-135.736" ypos="17.0825" zpos="-634.056" type="beetle_gold.official_races.race_grothmar.race_boost" GUID="DAxAYYvcM0qSDh8gtsJ2Og=="/>
+		<POI MapID="1330" xpos="84.2389" ypos="49.2394" zpos="-375.975" type="beetle_gold.official_races.race_grothmar.race_big_air" GUID="caZA/yi1U0uMz4uC8V7ESg=="/>
+		<POI MapID="1330" xpos="230.641" ypos="33.1518" zpos="-276.825" type="beetle_gold.official_races.race_grothmar.race_boost" GUID="rTuQJkLgykWn4oIZMrcjEQ=="/>
+		<POI MapID="1330" xpos="535.6" ypos="-0.432734" zpos="121.555" type="beetle_gold.official_races.race_grothmar.race_boost" GUID="uTMaqFNADUy5M9mQS0pTog=="/>
+		<POI MapID="1330" xpos="551.723" ypos="-0.318395" zpos="142.4" type="beetle_gold.official_races.race_grothmar.race_vigor" GUID="IIxkOCAA+UCeKFRTZyNYPA=="/>
+		<POI MapID="1330" xpos="594.179" ypos="3.37599" zpos="184.343" type="beetle_gold.official_races.race_grothmar.race_drift" GUID="bcnQt6JuW0OzMkJvouHXYQ=="/>
+		<POI MapID="1330" xpos="591.077" ypos="19.4152" zpos="250.554" type="beetle_gold.official_races.race_grothmar.race_boost" GUID="3iLFrsRnQ0yQ5TCrT3cnzg=="/>
+		<Trail type="beetle_gold.official_races.race_grothmar.race_grothmar_toggletrail" GUID="7Zw4BrEfAkqeJhUOEwI5yg==" fadeNear="5000" fadeFar="5100" trailData="DATA/TRAILS/Grothmar_Grand_Tour.trl" animSpeed="0" texture="DATA/IMG/beetle_trail_main.png"/>
+		<Trail type="beetle_gold.official_races.race_grothmar.race_grothmar_toggletrail" GUID="t/KKWv5ifEyXJ1saoGBnHg==" fadeNear="5000" fadeFar="5100" trailData="DATA/TRAILS/Grothmar_Grand_Tour2.trl" animSpeed="0" texture="DATA/IMG/beetle_trail_drift.png"/>
+	</POIs>
+</OverlayData>
+
+<!--XML Formatting and Graphic Icons provided by Pewpew Kapew...Girbilcannon.8259-->

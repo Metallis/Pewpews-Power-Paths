@@ -1,0 +1,25 @@
+<OverlayData>
+<MarkerCategory name="beetle_gold" DisplayName="Pewpew's Power Paths">
+  <MarkerCategory name="seasonal_races" DisplayName="Seasonal Races">
+    <!--Dragon Bash Rally-->
+	<MarkerCategory name="race_dr_fourwinds" DisplayName="Four Winds - Pavilion Pusuit (Divinity's Reach)">
+      <MarkerCategory name="race_dr_fourwinds_toggletrail" DisplayName="Toggle Trail">
+        </MarkerCategory>
+      <MarkerCategory name="race_start" DisplayName="Toggle Start Point" fadeNear="5000" fadeFar="5100" iconSize="2.0" heightOffset="4.0" iconFile="DATA/IMG/beetle_start.png"/>
+	  <MarkerCategory name="race_drift" DisplayName="Toggle Drift Signs" fadeNear="5000" fadeFar="5100" iconSize="2.0" heightOffset="3.0" iconFile="DATA/IMG/beetle_sign_drift.png"/>
+	  <MarkerCategory name="race_sharpright" DisplayName="Toggle Sharp Right Signs" fadeNear="5000" fadeFar="5100" iconSize="2.0" heightOffset="3.0" iconFile="DATA/IMG/beetle_sign_sharpright.png"/>
+	  <MarkerCategory name="race_boost" DisplayName="Toggle Boost Signs" fadeNear="5000" fadeFar="5100" iconSize="2.5" heightOffset="1.0" iconFile="DATA/IMG/beetle_sign_boost.png"/>
+	  <MarkerCategory name="race_vigor" DisplayName="Toggle Vigor Signs" fadeNear="5000" fadeFar="5100" iconSize="2.5" heightOffset="2.0" iconFile="DATA/IMG/beetle_sign_vigor.png"/>
+	  <MarkerCategory name="race_hop" DisplayName="Toggle Hop Signs" fadeNear="5000" fadeFar="5100" iconSize="2.0" heightOffset="3.0" iconFile="DATA/IMG/beetle_sign_hop.png"/>
+	  <MarkerCategory name="race_big_air" DisplayName="Toggle Big Air Signs" fadeNear="5000" fadeFar="5100" iconSize="3.0" heightOffset="0.5" iconFile="DATA/IMG/beetle_sign_bigair.png"/>
+    </MarkerCategory>
+  </MarkerCategory>
+</MarkerCategory>
+	<POIs>
+		<!--Dragon Bash Rally Markers and Trails-->		
+		<POI MapID="929" xpos="10.9822" ypos="32.3118" zpos="-18.3979" type="beetle_gold.seasonal_races.race_dr_fourwinds.race_start" GUID="bcSkXSjMZ0SzzeEFUUtxCQ=="/>
+		<Trail type="beetle_gold.seasonal_races.race_dr_fourwinds.race_dr_fourwinds_toggletrail" GUID="NhEzg8xlDk+OC1OX11hPpg==" fadeNear="5000" fadeFar="5100" trailData="DATA/TRAILS/Pavilion_Pursuit.trl" animSpeed="0" texture="DATA/IMG/beetle_trail_main.png"/>
+	</POIs>
+</OverlayData>
+
+<!--XML Formatting and Graphic Icons provided by Pewpew Kapew...Girbilcannon.8259-->

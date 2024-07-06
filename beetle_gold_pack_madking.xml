@@ -1,0 +1,40 @@
+<OverlayData>
+<MarkerCategory name="beetle_gold" DisplayName="Pewpew's Power Paths">
+  <MarkerCategory name="seasonal_races" DisplayName="Seasonal Races">
+    <!--Roll into Madness-->
+	<MarkerCategory name="race_mkr_mk" DisplayName="Mad King - Roll into Madness (Mad King's Raceway)">
+      <MarkerCategory name="race_mkr_mk_toggletrail" DisplayName="Toggle Trail">
+        </MarkerCategory>
+      <MarkerCategory name="race_start" DisplayName="Toggle Start Point" fadeNear="5000" fadeFar="5100" iconSize="2.0" heightOffset="4.0" iconFile="DATA/IMG/beetle_start.png"/>
+	  <MarkerCategory name="race_drift" DisplayName="Toggle Drift Signs" fadeNear="5000" fadeFar="5100" iconSize="2.0" heightOffset="3.0" iconFile="DATA/IMG/beetle_sign_drift.png"/>
+	  <MarkerCategory name="race_boost" DisplayName="Toggle Boost Signs" fadeNear="5000" fadeFar="5100" iconSize="2.5" heightOffset="1.0" iconFile="DATA/IMG/beetle_sign_boost.png"/>
+    </MarkerCategory>
+  </MarkerCategory>
+</MarkerCategory>
+	<POIs>
+		<!--Roll into Madness - Markers and Trails-->
+		<POI MapID="1304" xpos="-21.6818" ypos="47.1954" zpos="13.271" type="beetle_gold.seasonal_races.race_mkr_mk.race_start" GUID="/6xMlg29X0W2tatFcZVkGA=="/>
+		<POI MapID="1304" xpos="44.7338" ypos="45.3296" zpos="152.494" type="beetle_gold.seasonal_races.race_mkr_mk.race_drift" GUID="wBbFGs/ko0udSE4HJ8SpfA=="/>
+		<POI MapID="1304" xpos="114.511" ypos="45.5474" zpos="151.219" type="beetle_gold.seasonal_races.race_mkr_mk.race_drift" GUID="GhQ2bX9XU0SaY7M9O2P5pQ=="/>
+		<POI MapID="1304" xpos="116.559" ypos="47.2258" zpos="-17.278" type="beetle_gold.seasonal_races.race_mkr_mk.race_drift" GUID="9P7ULv7gUkWpdxVlV+xWrA=="/>
+		<POI MapID="1304" xpos="-62.7888" ypos="46.3674" zpos="11.8846" type="beetle_gold.seasonal_races.race_mkr_mk.race_drift" GUID="OSioRC2y1UuUG6vjAa9ytw=="/>
+		<POI MapID="1304" xpos="-50.2488" ypos="46.5343" zpos="84.5229" type="beetle_gold.seasonal_races.race_mkr_mk.race_drift" GUID="gdPG8LpVck2M/htdAPkT/w=="/>
+		<POI MapID="1304" xpos="-74.66" ypos="45.4473" zpos="45.7586" type="beetle_gold.seasonal_races.race_mkr_mk.race_drift" GUID="6Fw8enyhnkKqtmnWLOWv8g=="/>
+		<POI MapID="1304" xpos="-103.931" ypos="46.5463" zpos="-4.79149" type="beetle_gold.seasonal_races.race_mkr_mk.race_drift" GUID="myJqOYi5d0+z0hTDYqtKxw=="/>
+		<POI MapID="1304" xpos="43.4374" ypos="45.6703" zpos="37.4956" type="beetle_gold.seasonal_races.race_mkr_mk.race_drift" GUID="Q+qi79GyxUu9Zjqi24CQcA=="/>
+		<POI MapID="1304" xpos="79.5239" ypos="47.0946" zpos="-59.8556" type="beetle_gold.seasonal_races.race_mkr_mk.race_drift" GUID="KIF1ibLCAUKLUHP+Xn7B7Q=="/>
+		<POI MapID="1304" xpos="101.758" ypos="44.3572" zpos="-126.589" type="beetle_gold.seasonal_races.race_mkr_mk.race_drift" GUID="0HbID76M2UGPIDitwdVlCw=="/>
+		<POI MapID="1304" xpos="5.40041" ypos="46.538" zpos="-134.322" type="beetle_gold.seasonal_races.race_mkr_mk.race_drift" GUID="C4gC3LNL20OSdrfjBqYdRg=="/>
+		<POI MapID="1304" xpos="115.725" ypos="45.4263" zpos="108.819" type="beetle_gold.seasonal_races.race_mkr_mk.race_boost" GUID="+xS6NdN3NkKZbYFhBZOSPA=="/>
+		<POI MapID="1304" xpos="70.6534" ypos="46.9608" zpos="-40.4936" type="beetle_gold.seasonal_races.race_mkr_mk.race_boost" GUID="plymDqUN+kqDeKo0hCoriA=="/>
+		<POI MapID="1304" xpos="-104.874" ypos="47.1469" zpos="125.41" type="beetle_gold.seasonal_races.race_mkr_mk.race_boost" GUID="fo//ZvJQbk+6GrgTBVBOgg=="/>
+		<POI MapID="1304" xpos="-85.5246" ypos="46.0896" zpos="-62.945" type="beetle_gold.seasonal_races.race_mkr_mk.race_boost" GUID="yxlQzb2vTEGoNYUALY+nHQ=="/>
+		<POI MapID="1304" xpos="87.1525" ypos="45.8209" zpos="15.4409" type="beetle_gold.seasonal_races.race_mkr_mk.race_boost" GUID="w1skjNfQeEipZ+BrUTH0bA=="/>
+		<POI MapID="1304" xpos="82.1837" ypos="48.2903" zpos="-143.618" type="beetle_gold.seasonal_races.race_mkr_mk.race_boost" GUID="VJQtrFpTKU+EuA/2zYcXbQ=="/>
+		<POI MapID="1304" xpos="-12.7287" ypos="44.9803" zpos="-105.662" type="beetle_gold.seasonal_races.race_mkr_mk.race_boost" GUID="aro2gFcQJE28qSJ5FGvPdw=="/>
+		<Trail type="beetle_gold.seasonal_races.race_mkr_mk.race_mkr_mk_toggletrail" GUID="HKydkga0Yk6QuKxQMkmkQw==" fadeNear="5000" fadeFar="5100" trailData="DATA/TRAILS/Roll_into_Madness.trl" animSpeed="0" texture="DATA/IMG/beetle_trail_main.png"/>
+		<Trail type="beetle_gold.seasonal_races.race_mkr_mk.race_mkr_mk_toggletrail" GUID="3PGS7juWp0uNoKneg12Yhw==" fadeNear="5000" fadeFar="5100" trailData="DATA/TRAILS/Roll_into_Madness_drift1.trl" animSpeed="0" texture="DATA/IMG/beetle_trail_drift.png"/>
+	</POIs>
+</OverlayData>
+
+<!--XML Formatting and Graphic Icons provided by Pewpew Kapew...Girbilcannon.8259-->
